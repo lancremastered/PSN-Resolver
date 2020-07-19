@@ -1,5 +1,4 @@
 # PSN-Resolver
-PSN Resolver – The Best IP Finder and IP Puller for PS4
 
 PSN resolver allows gamers to find IP addresses of specific players in your party chat or in-game session.
 
