@@ -12,4 +12,4 @@ Requirements
     Computer with Internet connection (LAN and WiFi will work)
     Disable IPv6 Protocol 
     
-Download PSN Resolver here - https://psn-resolver.com    
+Download PSN Resolver here - http://psn-resolver.com    
